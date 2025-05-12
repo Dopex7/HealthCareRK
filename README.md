@@ -4,7 +4,7 @@ HealthCareRK is a modern healthcare appointment platform where users can easily 
 
 ## 🔥 Landing Page Preview
 
-![Landing Page](https://imgur.com/a/8WXot7K)
+![Landing Page](https://i.imgur.com/MnLb42M.png)
 
 > _"Rezervoni Takimin Me Doktorrë të Besuar" - Book appointments with trusted doctors._
 
